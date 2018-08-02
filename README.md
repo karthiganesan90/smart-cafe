@@ -14,20 +14,36 @@ These instructions will get you a copy of the project up and running on your loc
 
 Step by step instructions to run the app
 
-Install npm 
+Install npm dependencies
 
-```yarn install```
+```
 
-Run android
+yarn install
 
-```yarn android```
+```
 
-Run iOS
+Run android app
 
-```yarn ios```
+```
 
-Run test
+yarn android
 
-```yarn test```
+```
+
+Run iOS app
+
+```
+
+yarn ios
+
+```
+
+Run unit test
+
+```
+
+yarn test
+
+```
 
 
