@@ -46,4 +46,20 @@ yarn test
 
 ```
 
+Typescript compiler
+
+```
+
+yarn tsc
+
+```
+
+Typescript linter
+
+```
+
+yarn lint
+
+```
+
 
