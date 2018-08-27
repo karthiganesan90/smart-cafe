@@ -7,4 +7,4 @@ const stackNavigator = StackNavigator({
     Language: { screen: Language },
   },{
     initialRouteName: 'Welcome',
-  })
+});
